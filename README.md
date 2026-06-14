@@ -34,7 +34,7 @@ Va de convertir el caos del cloud en información clara, accionable y con sentid
 | # | Artículo | Cloud | Estado |
 |---|----------|-------|--------|
 | 00 | Piloto: FinOps a lo LenOps | -- | Publicado (LinkedIn) |
-| 01 | Tagging: sin etiquetas no hay FinOps | Multi-cloud | Próximamente |
+| 01 | [Tagging: sin etiquetas no hay FinOps](articles/01-tagging-sin-etiquetas-no-hay-finops.md) | Multi-cloud | Publicado |
 | 02 | [Savings Plans vs Reserved Instances en AWS](articles/02-savings-plans-vs-reserved-instances-aws.md) | AWS | Publicado |
 | 03 | [Savings Plans vs Reservations en Azure](articles/03-savings-plans-vs-reservations-azure.md) | Azure | Publicado |
 | 04 | CUDs en GCP: tres tipos y la mayoría solo conoce uno | GCP | Próximamente |
@@ -51,7 +51,7 @@ Va de convertir el caos del cloud en información clara, accionable y con sentid
 
 No soy un gurú. No soy un influencer. Soy un operador.
 
-15+ años en infraestructura de telecomunicaciones en Tier-1 (Claro, Movistar, Netlife). He visto facturas reales, he peleado con reservas mal dimensionadas y he tenido que explicar sobrecostes a negocio.
+15+ años en infraestructura de telecomunicaciones en Tier-1. He visto facturas reales, he peleado con reservas mal dimensionadas y he tenido que explicar sobrecostes a negocio.
 
 Ahora trabajo en FinOps. Y escribo lo que me habría gustado leer cuando empecé: artículos que van al grano, respaldados por documentación, sin humo.
 
@@ -73,6 +73,7 @@ Ahora trabajo en FinOps. Y escribo lo que me habría gustado leer cuando empecé
 Finops_a_lo_LenOps/
 ├── README.md
 ├── articles/
+│   ├── 01-tagging-sin-etiquetas-no-hay-finops.md
 │   ├── 02-savings-plans-vs-reserved-instances-aws.md
 │   └── 03-savings-plans-vs-reservations-azure.md
 ├── assets/
