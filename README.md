@@ -79,7 +79,7 @@ FinOps_a_lo_LenOps/
 
 Cada artículo de GitHub tiene su versión corta en LinkedIn — una pastilla de 180 palabras que resume el insight principal. Si prefieres la versión rápida, sígueme ahí. Si prefieres la profundidad, estás en el sitio correcto.
 
-**LinkedIn:** [LenOps](https://www.linkedin.com/in/TU-PERFIL) *(actualiza con tu URL)*
+**LinkedIn:** [LenOps](https://www.linkedin.com/in/lenry-lathulerie-58524243)
 
 ---
 
